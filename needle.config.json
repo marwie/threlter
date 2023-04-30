@@ -1,0 +1,10 @@
+{
+  "buildDirectory": "dist",
+  "assetsDirectory": "static",
+  "scriptsDirectory": "src/needle/scripts",
+  "codegenDirectory": "src/needle/generated",
+  "managed-dependencies": {},
+  "scripts": {
+    "start": "npm run dev"
+  }
+}

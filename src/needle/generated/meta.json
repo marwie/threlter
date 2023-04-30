@@ -1,0 +1,11 @@
+{
+  "meta": null,
+  "absolutePath": "https://localhost:3000",
+  "sceneName": "Assets",
+  "deployOnly": false,
+  "generator": "com.needle.engine-exporter@3.2.15-exp",
+  "gzip": false,
+  "allowHotReload": true,
+  "hasProLicense": false,
+  "needleEditor": null
+}
